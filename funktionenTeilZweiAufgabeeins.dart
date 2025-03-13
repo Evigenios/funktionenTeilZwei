@@ -70,5 +70,5 @@ void main() {
   print("+++++++++++++++++++++++++++++++++++");
   print(vokaleAnzahl("Indianer"));
   print(vokaleAnzahl("Ahoi"));
-  print(vokaleAnzahl("AaEeIiUu"));
+  print(vokaleAnzahl("AaEeIiUu "));
 }
